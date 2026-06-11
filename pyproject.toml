@@ -1,0 +1,13 @@
+[project]
+name = "panda-push-reinforcement-learning"
+version = "0.1.0"
+description = "PPO and SAC experiments for the PandaPush-v3 environment"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "gymnasium[mujoco]>=1.2.3",
+    "moviepy>=2.2.1",
+    "panda-gym>=3.0.7",
+    "stable-baselines3>=2.8.0",
+    "swig>=4.4.1",
+]
