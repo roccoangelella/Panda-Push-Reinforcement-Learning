@@ -4,6 +4,8 @@ PPO and SAC implementations for the PandaPush-v3 environment, including uniform 
 
 This repository was developed as a university project to study reinforcement learning methods through practical implementation and evaluation.
 
+![Panda Push Demo](assets/panda_push.gif)
+
 ## Setup
 
 ```bash
